@@ -1,0 +1,4 @@
+{
+    "argv": ["/opt/conda_envs/collection-2019-3.0-fmx/bin/python","-m","IPython.kernel","-f","{connection_file}","--profile","collection"],
+    "display_name": "Data Collection (2019-3.0)"
+}
