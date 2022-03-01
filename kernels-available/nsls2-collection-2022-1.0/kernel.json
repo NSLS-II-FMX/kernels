@@ -1,0 +1,12 @@
+{
+  "argv": [
+    "/opt/conda_envs/2022-1.0-py39/bin/python",
+    "-m",
+    "ipykernel",
+    "-f",
+    "{connection_file}",
+    "--profile=collection",
+    "--log-level=DEBUG"
+  ],
+  "display_name": "Data Collection (2022-1.0)"
+}
