@@ -1,0 +1,12 @@
+{
+  "argv": [
+    "/epics/iocs/notebook/conda_envs/2022-1.0-py39-local/bin/python",
+    "-m",
+    "ipykernel",
+    "-f",
+    "{connection_file}",
+    "--profile=collection",
+    "--log-level=DEBUG"
+  ],
+  "display_name": "mxtools (2022-1.0-py39-local)"
+}
